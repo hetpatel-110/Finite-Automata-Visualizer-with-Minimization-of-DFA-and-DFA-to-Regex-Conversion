@@ -1,5 +1,7 @@
 # Finite-Automata-Visualizer-with-Minimization-of-DFA-and-DFA-to-Regex-Conversion
 
+#### A pyhton implementation of DFA Minimizer and DFA to Regex Conversion with Visualization using Streamlit.
+
 ## There are two Zip files each containing 2 different Implementations :
 | Project File  | Project Description |
 | ------------- | ------------- |
