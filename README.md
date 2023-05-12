@@ -11,7 +11,7 @@
 | ------------- | ------------- |
 | input.json  | DFA input in JSON Format  |
 | demo.mp4  | A video demo of the implementation  |
-| .ipynb file  | Project's implementation, advisable to run it on Google Collab  |
+| .ipynb file  | Python implementation, advisable to run it on Google Collab  |
 
 
 ### For Generating Custom DFA the input format in JSON is explained as :
